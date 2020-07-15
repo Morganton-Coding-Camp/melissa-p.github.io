@@ -70,6 +70,13 @@ iframe {
   padding: 1rem;
 }
 
+.banner {
+  min-height: 20vh;
+  padding: 5rem 1rem;
+  background-image: url('../#008000');
+  background-position: center;
+}
+
 .profile-img {
   max-height: 50vh;
   width: auto;
