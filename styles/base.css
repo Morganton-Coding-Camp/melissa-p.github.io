@@ -107,16 +107,21 @@ iframe {
 }
 
 .Favorite-season {
-  background: #b36200;
+  background: #ffdb58;
   padding: 2rem;
   color: grey;
 }
 
 .Favorite-color {
-  background: #004b00;
+  background: #ffdb58;
   padding: 2rem;
   color: grey;
 }
+
+.Random-things {
+  background: #ffdb58;
+  padding: 2rem;
+  color: grey;
 
 .footer {
   text-align: center;
