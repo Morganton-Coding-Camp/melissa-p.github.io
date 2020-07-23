@@ -100,19 +100,19 @@ iframe {
   border-radius: 50%;
 }
 
-.Favorite-food {
+.favorite-food {
   background: #ffdb58;
   padding: 2rem;
   color: grey;
 }
 
-.Favorite-season {
+.favorite-season {
   background: #ffdb58;
   padding: 2rem;
   color: grey;
 }
 
-.Favorite-color {
+.favorite-color {
   background: #ffdb58;
   padding: 2rem;
   color: grey;
@@ -122,6 +122,7 @@ iframe {
   background: #ffdb58;
   padding: 2rem;
   color: grey;
+}
 
 .footer {
   text-align: center;
